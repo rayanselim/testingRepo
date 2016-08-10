@@ -20,3 +20,5 @@ public class BackgroundScroller : MonoBehaviour {
 		waterMaterial.SetTextureOffset ("_MainTex",offset);
 	}
 }
+
+//
